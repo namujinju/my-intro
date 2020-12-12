@@ -7,6 +7,7 @@
 body {
   height: 2000px;
   background-color: rgb(221, 220, 235);
+  background-color: red;
 }
 .intro-section {
   display: flex;
