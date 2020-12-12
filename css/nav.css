@@ -1,0 +1,14 @@
+.nav-bar {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  background-color: lightblue;
+  padding: 20px;
+  font-weight: bold;
+  font-family: Times, Georgia, serif;
+  font-size: 30px;
+}
+.nav-bar a:active {
+  color: blue;
+}

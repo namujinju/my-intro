@@ -1,0 +1,25 @@
+@import "reset.css";
+@import "nav.css";
+@import "profile.css";
+@import "toy.css";
+@import "contact.css";
+
+body {
+  height: 2000px;
+  background-color: rgb(221, 220, 235);
+}
+.intro-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding-top: 50px;
+  border-bottom: 3px dashed lightblue;
+}
+.intro-title {
+  font-size: 40px;
+  padding: 30px;
+  font-weight: bold;
+  color: blue;
+}

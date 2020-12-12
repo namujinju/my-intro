@@ -1,0 +1,13 @@
+.toy-title {
+  font-size: 20px;
+  padding: 30px;
+}
+
+#toy-project img {
+  width: auto;
+  height: 500px;
+  padding: 30px;
+}
+#toy-project iframe {
+  padding-bottom: 50px;
+}
